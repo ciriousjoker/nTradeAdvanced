@@ -31,5 +31,10 @@ Currently nTrade Advanced confirmed to work on the following versions of Ndless
 > What the function does, is that it recalculates the checksum of each section, so the game believes, that the .sav file is valid (even if it's completely messed up). This lets you at least load the save file (and maybe rescue some Pokemon)
 > **However**, it does **not** recover corrupted Pokemon (so-called *Bad Eggs*) as each Pokemon has it's own checksum and I haven't yet figured out, how this one is getting calculated.
 
+## Related links
+- [The omnimaga thread](http://www.omnimaga.org/ti-nspire-projects/ntrade-an-on-calc-trading-program-for-3-gen-pokemon-games)
+- [The tiplanet.org download page](https://tiplanet.org/forum/archives_voir.php?id=86503&lang=en)
+- [My author page on ndless-apps.org](https://ndless-apps.org/authors/50)
+
 ## License
 This sourcecode is licensed under the [MIT license](LICENSE)
